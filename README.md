@@ -8,6 +8,6 @@
 软件的介绍请参考我B站视频：<br>
 https://www.bilibili.com/video/BV1Ls4y1c7Wd/
 
-下载安装程序：https://www.hostize.com/zh/v/bYDfRleJ87  
+下载安装程序：https://www.hostize.com/zh/v/bYDfRleJ87  （exe但网站不允许，故压缩）
 下载无法上传的installer/文件：https://www.hostize.com/zh/v/vbkRJV7GOe
 
